@@ -1,4 +1,4 @@
-TWRP for INFINIX HOT 12 PLAY NFC
+OrangeFox Recovery for INFINIX HOT 12 PLAY NFC
 
 CPU: Unisoc T610
 GPU: Mali G52 MP2
